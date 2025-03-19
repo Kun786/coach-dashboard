@@ -1,0 +1,13 @@
+<svg id="Komponente_68_2" data-name="Komponente 68 – 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37e3a8"/>
+      <stop offset="1" stop-color="#1c9d87"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rechteck_11469" data-name="Rechteck 11469" width="46" height="46" rx="8" fill="#fff"/>
+  <g id="Gruppe_36191" data-name="Gruppe 36191" transform="translate(13.687 4.6)">
+    <path id="Pfad_47034" data-name="Pfad 47034" d="M139.361,249.372a5.065,5.065,0,0,0-1.006-.367,24.315,24.315,0,0,1-2.52-1.327c-4.925-2.886-9.309-7.747-10.4-13.5-.575-3.018-.832-6.368.2-9.312a18,18,0,0,1,4.9-7.117,21.865,21.865,0,0,1,3.777-2.781,26.463,26.463,0,0,1,6.017-2.4,14.634,14.634,0,0,0-4.291,2.439c-4.478,3.4-8.367,8.106-7.453,14.045.234,1.5.93,3.441,2.564,4.045,1.9.7,3.461-1.029,4.616-2.281a30.278,30.278,0,0,1,4.923-4.535c.884-.613,2.061-.913,2.873-1.567-3.736,5.438-6.627,12.435-5.86,19.149A15.773,15.773,0,0,0,139.361,249.372Z" transform="translate(-124.927 -212.571)" fill="url(#linear-gradient)"/>
+    <path id="Pfad_47035" data-name="Pfad 47035" d="M153.573,252.832c-1.2,2.344-3.615,3.507-5.395,2.6s-2.254-3.548-1.057-5.892,3.615-3.507,5.395-2.6S154.769,250.487,153.573,252.832Z" transform="translate(-141.233 -238.363)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

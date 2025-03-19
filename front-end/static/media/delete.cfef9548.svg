@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="Group_7716" data-name="Group 7716" transform="translate(0.08)">
+    <g id="Group_2093" data-name="Group 2093" transform="translate(0 0)">
+      <rect id="Rectangle_701" data-name="Rectangle 701" width="38" height="38" rx="8" transform="translate(-0.08)" fill="#6e7d75"/>
+      <g id="Icon_feather-trash-2" data-name="Icon feather-trash-2" transform="translate(11.151 9.954)">
+        <path id="Path_4468" data-name="Path 4468" d="M4.5,9H20.619" transform="translate(-4.5 -5.418)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_4469" data-name="Path 4469" d="M20.037,6.582V19.119a1.791,1.791,0,0,1-1.791,1.791H9.291A1.791,1.791,0,0,1,7.5,19.119V6.582m2.687,0V4.791A1.791,1.791,0,0,1,11.978,3H15.56a1.791,1.791,0,0,1,1.791,1.791V6.582" transform="translate(-5.709 -3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_4470" data-name="Path 4470" d="M15,16.5v5.373" transform="translate(-8.731 -8.44)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_4471" data-name="Path 4471" d="M21,16.5v5.373" transform="translate(-11.149 -8.44)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

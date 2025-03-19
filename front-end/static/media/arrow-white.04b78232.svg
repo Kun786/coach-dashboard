@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <filter id="Rechteck_12481" x="0" y="0" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#101828" flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_38186" data-name="Gruppe 38186" transform="translate(-1096 -390)">
+    <g transform="matrix(1, 0, 0, 1, 1096, 390)" filter="url(#Rechteck_12481)">
+      <g id="Rechteck_12481-2" data-name="Rechteck 12481" transform="translate(3 2)" fill="#fff" stroke="#d0d5dd" stroke-width="1">
+        <rect width="20" height="20" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="19" height="19" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M9.878,10.29l4.534-4.53A.856.856,0,1,0,13.2,4.551L8.062,9.684a.855.855,0,0,0-.025,1.181L13.2,16.033a.856.856,0,1,0,1.213-1.209Z" transform="translate(1098.699 413.662) rotate(-90)" fill="#a5b5af"/>
+  </g>
+</svg>
